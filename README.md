@@ -52,18 +52,21 @@ The PreOwned application is built as part of a school project and the api servic
 - The app is run on expo client
 ## Set up
 To run this project, installing locally by cloning and use nom:
-```bash
+
 Navigate to pre-owned folder
-$cd ../pre-owned
-
-Install npm on your device
-$npm install
-
-Start running expo with npm
-$npm start
-
-$open expo client app on mobile device and start using
+```bash
+cd ../pre-owned
 ```
+Install npm on your device
+```bash
+npm install
+```
+Start running expo with npm
+```bash
+npm start
+```
+$open expo client app on mobile device and start using by scanning the QR code
+
 
 ## Screenshots
 ## License
