@@ -58,7 +58,7 @@ $ cd ../pre-owned
 $ npm install
 $ npm start
 ```
-Open expo client app on mobile device and start using
+Open expo client app on mobile device and start using by scanning the QR code.
 ## Screenshots
 
 ## License
