@@ -38,14 +38,14 @@ For buyers:
 - See seller profile and statistics on posts, likes and comments
 
 ## Libraries:
-- UI kitten libraries is used as PreOwned’s main UI components
+- [UI kitten](https://github.com/akveo/react-native-ui-kitten) libraries is used as PreOwned’s main UI components
 - A library for image zoom and pan
 - A library for shadow elements
 - A library for time conversion
 - A library for linear-gradient
 - A library for managing forms (react-hook-form)
 - A library for animation (Lottie)
--
+
 ## Backend and APIs service:
 The PreOwned application is built as part of a school project and the api services are provided by Metropolia UAS (link to documents)
 - Apis service are tested with Postman
