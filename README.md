@@ -59,11 +59,8 @@ $ npm install
 $ npm start
 ```
 Open expo client app on mobile device and start using
-
-
 ## Screenshots
-Some of the PreOwned views
-<img src="/assets/brand/Screenshot1.png" width="250"> <img src="/assets/brand/Screenshot2.png" width="250"> <img src="/assets/brand/Screenshot3.png" width="250">
+
 ## License
 [License](https://github.com/Nischhal3/pre-owned/blob/readme/LICENSE.txt).
 ## Contributors
