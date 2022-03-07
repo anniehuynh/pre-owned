@@ -25,7 +25,7 @@ For seller:
 For buyers:
 * Easy: Discover unique fashion that fits your style through our app platform.
 * Save: time and money buying new things while saving the environment
-* Love it: buy it, wear it, love it. 
+* Love it: buy it, wear it, love it.
 
 ## Features:
 - Register/Log in to use the app
@@ -45,17 +45,25 @@ For buyers:
 - A library for linear-gradient
 - A library for managing forms (react-hook-form)
 - A library for animation (Lottie)
-- 
+-
 ## Backend and APIs service:
 The PreOwned application is built as part of a school project and the api services are provided by Metropolia UAS (link to documents)
 - Apis service are tested with Postman
 - The app is run on expo client
 ## Set up
 To run this project, installing locally by cloning and use nom:
+```bash
+Navigate to pre-owned folder
 $cd ../pre-owned
+
+Install npm on your device
 $npm install
+
+Start running expo with npm
 $npm start
+
 $open expo client app on mobile device and start using
+```
 
 ## Screenshots
 ## License
