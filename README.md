@@ -70,6 +70,6 @@ open expo client app on mobile device and start using by scanning the QR code
 
 ## Screenshots
 ## License
-[License](https://github.com/Nischhal3/pre-owned/blob/readme/LICENSE.txt)
+[License](https://github.com/Nischhal3/pre-owned/blob/readme/LICENSE.txt).
 ## Contributors
 
