@@ -39,6 +39,7 @@ For buyers:
 
 ## Libraries:
 - React Native UI Library - [UI Kitten Library](https://akveo.github.io/react-native-ui-kitten/)
+- A library for [picking images](https://docs.expo.dev/versions/latest/sdk/imagepicker/)
 - A library for [image zoom and pan](https://www.npmjs.com/package/react-native-image-zoom-viewer)
 - A library for [shadow](https://www.npmjs.com/package/react-native-shadow-2)
 - A library for [time conversion](https://www.npmjs.com/package/react-moment)
